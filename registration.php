@@ -8,5 +8,5 @@ use Magento\Framework\Component\ComponentRegistrar;
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
     'Rubic_CleanCheckoutSocial',
-    __DIR__ . '/src'
+    __DIR__
 );
